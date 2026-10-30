@@ -21,8 +21,8 @@ Naming-only intercession across SCP ranges 9701–10000 and wider subjects, foll
 3. Zenodo: https://doi.org/10.5281/zenodo.23798851
 
 # Instrumentals
-GitHub: https://github.com/KJC-DNN/Album107_Instrumentals_He_Alone_Remains/releases/tag/INS107.0.0
-Archive: album-107-instrumentals-he-alone-remains-cover
-Zenodo: https://doi.org/10.5281/zenodo.23796025
+1. GitHub: https://github.com/KJC-DNN/Album107_Instrumentals_He_Alone_Remains/releases/tag/INS107.0.
+2. Archive: album-107-instrumentals-he-alone-remains-cover
+3. Zenodo: https://doi.org/10.5281/zenodo.23796025
 
 All Glory to Lord Jesus Christ.
